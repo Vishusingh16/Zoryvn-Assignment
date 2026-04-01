@@ -11,6 +11,16 @@ A clean, interactive, and beautifully designed finance dashboard built with mode
 
 ## Features
 
+<img width="1908" height="1071" alt="image" src="https://github.com/user-attachments/assets/bab4c099-d0f7-4022-b89f-a400ebf33446" />
+<img width="1915" height="1073" alt="image" src="https://github.com/user-attachments/assets/02712bd2-2895-4e7c-84c8-bbd01674398d" />
+<img width="1906" height="1079" alt="image" src="https://github.com/user-attachments/assets/b5bfd461-40b1-45e4-8935-e1ba80b9e0ac" />
+<img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/2594b544-8d5e-42ab-81bd-6a51d63c9c4f" />
+<img width="1913" height="862" alt="image" src="https://github.com/user-attachments/assets/4c09e524-12d3-4bab-8361-e925fa910ac2" />
+
+
+
+
+
 ### Dashboard Overview
 - **Summary Cards** — Total Balance, Income, Expenses, and Savings Rate with month-over-month change indicators
 - **Balance Trend** — Area chart showing cumulative balance growth over 6 months
