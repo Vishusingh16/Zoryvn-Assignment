@@ -175,6 +175,4 @@ The dashboard includes three main views:
 
 ---
 
-## License
 
-MIT
